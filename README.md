@@ -1,6 +1,6 @@
 # [go back to main index](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
 
-# [8 Addresses And Pointers - Objective-C - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [8 Addresses And Pointers](https://github.com/c4arl0s/8AddressesAndPointers-ObjectiveC#8addressesandpointers-objectivec)
 
 1. [x] [1. 8AddressesAndPointers-ObjectiveC](https://github.com/c4arl0s/8AddressesAndPointers-ObjectiveC#1-8addressesandpointers-objectivec)
 2. [x] [2. To understand the way pointers operate, you first must understand the concept of indirection.](https://github.com/c4arl0s/8AddressesAndPointers-ObjectiveC#2-to-understand-the-way-pointers-operate-you-first-must-understand-the-concept-of-indirection)
@@ -19,18 +19,18 @@
 15. [x] [15. Stylish pointer declarations.](https://github.com/c4arl0s/8AddressesAndPointers-ObjectiveC#15-stylish-pointer-declarations)
 16. [x] [16. A function is not able to change the actual parameters value.](https://github.com/c4arl0s/8AddressesAndPointers-ObjectiveC#16-a-function-is-not-able-to-change-the-actual-parameters-value)
 
-# [9 Pass By Reference - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [9 Pass By Reference](https://github.com/c4arl0s/9PassByReference-ObjectiveC/blob/master/README.md#9-pass-by-reference---objectivec---content)
 
 1. [x] [1. 9PassByReference-ObjectiveC](https://github.com/c4arl0s/9PassByReference-ObjectiveC/blob/master/README.md#1-9passbyreference-objectivec)
 2. [x] [2. Writing pass-by-reference functions](https://github.com/c4arl0s/9PassByReference-ObjectiveC/blob/master/README.md#2-writing-pass-by-reference-functions)
 3. [x] [3. Avoid dereferencing NULL](https://github.com/c4arl0s/9PassByReference-ObjectiveC/blob/master/README.md#3-avoid-dereferencing-null)
 
-# [10 Structs - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [10 Structs](https://github.com/c4arl0s/10Structs-ObjectiveC#10-structs---objectivec---content)
 
 1. [x] [1. A typedef defines an alias for a type declaration and allow us to use it more like the usual data types.](https://github.com/c4arl0s/10Structs-ObjectiveC#1-a-typedef-defines-an-alias-for-a-type-declaration-and-allow-us-to-use-it-more-like-the-usual-data-types)
 2. [x] [2. Now pass a Person structure to another function](https://github.com/c4arl0s/10Structs-ObjectiveC#2-now-pass-a-person-structure-to-another-function).
 
-# [11 The Heap - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [11 The Heap](https://github.com/c4arl0s/11TheHeap#11-the-heap---content)
 
 1. [x] [1. 11TheHeap](https://github.com/c4arl0s/11TheHeap#1-11theheap)
 2. [x] [2. So far, your programs have only used memory that has been in frames on the stack.](https://github.com/c4arl0s/11TheHeap#2-so-far-your-programs-have-only-used-memory-that-has-been-in-frames-on-the-stack)
@@ -41,7 +41,7 @@
 7. [x] [7. You can also use malloc() to claim space for a struct on the heap.](https://github.com/c4arl0s/11TheHeap#7-you-can-also-use-malloc-to-claim-space-for-a-struct-on-the-heap)
 8. [x] [8. Notice the operator -> ](https://github.com/c4arl0s/11TheHeap#8-notice-the-operator---)
 
-# [12 Objects - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [12 Objects](https://github.com/c4arl0s/12Objects-ObjectiveC#12-objects---objectivec)
 
 1. [x] [1. Creating and using your first object](https://github.com/c4arl0s/12Objects-ObjectiveC#1-creating-and-using-your-first-object)
 2. [x] [2. Message anatomy](https://github.com/c4arl0s/12Objects-ObjectiveC#2-message-anatomy)
@@ -49,24 +49,24 @@
 4. [x] [4. id](https://github.com/c4arl0s/12Objects-ObjectiveC#4-id)
 5. [x] [5. Challenge](https://github.com/c4arl0s/12Objects-ObjectiveC#5-challenge)
 
-# [13 More Messages - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [13 More Messages](https://github.com/c4arl0s/13MoreMessages-ObjectiveC#13-more-messages---objectivec)
 
 1. [x] [1. Nesting message sends](https://github.com/c4arl0s/13MoreMessages-ObjectiveC#1-nesting-message-sends)
 2. [x] [2. Multiple arguments](https://github.com/c4arl0s/13MoreMessages-ObjectiveC#2-multiple-arguments)
 3. [x] [3. Sending messages to nil](https://github.com/c4arl0s/13MoreMessages-ObjectiveC#3-sending-messages-to-nil)
 4. [x] [4. Challenge](https://github.com/c4arl0s/13MoreMessages-ObjectiveC#4-challenge)
 
-# [14 NSString - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [14 NSString](https://github.com/c4arl0s/14NSString-ObjectiveC#14-nsstring---objective)
 
 1. [x] [1. Challenge](https://github.com/c4arl0s/14NSString-ObjectiveC#challenge)
 
-# [15 NSArray - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [15 NSArray](https://github.com/c4arl0s/15NSArray-ObjectiveC#15-nsarray---objectivec)
 
 1. [x] [1. NSArray](https://github.com/c4arl0s/15NSArray-ObjectiveC#1-nsarray)
 2. [x] [2. NSMutableArray](https://github.com/c4arl0s/15NSArray-ObjectiveC#2-nsmutablearray)
 3. [x] [3. Challenge](https://github.com/c4arl0s/15NSArray-ObjectiveC#3-challenge)
 
-# [17 Your First Class - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [17 Your First Class](https://github.com/c4arl0s/17YourFirstClass-ObjectiveC/blob/master/README.md#17-your-first-class---objectivec)
 
 1. [x] [1. Your First Class](https://github.com/c4arl0s/17YourFirstClass-ObjectiveC/blob/master/README.md#1-your-first-class)
 2. [x] [2. Accessor methods](https://github.com/c4arl0s/17YourFirstClass-ObjectiveC/blob/master/README.md#2-accesor-methods)
@@ -76,18 +76,18 @@
 6. [x] [6. Multiple files](https://github.com/c4arl0s/17YourFirstClass-ObjectiveC/blob/master/README.md#6-multiple-files)
 7. [x] [7. Challenge](https://github.com/c4arl0s/17YourFirstClass-ObjectiveC/blob/master/README.md#7-challenge)
 
-# [18 Inheretance - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [18 Inheretance](https://github.com/c4arl0s/18Inheretence-ObjectiveC#18-inheretance---objectivec)
 
 1. [x] [1. Overriding Methods](https://github.com/c4arl0s/18Inheretence-ObjectiveC#1-overriding-methods)
 2. [x] [2. super](https://github.com/c4arl0s/18Inheretence-ObjectiveC#2-super-the-super-directive-says-run-this-method-but-start-the-search-for-its-implementation-at-my-superclass)
 3. [x] [3. Challenge](https://github.com/c4arl0s/18Inheretence-ObjectiveC#3-challenge)
 
-# [19 Object Instance Variables ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [19 Object Instance Variables](https://github.com/c4arl0s/19ObjectInstanceVariables-ObjectiveC#19-object-instance-variables-objectivec)
 
 1. [x] [1. Object Ownership and ARC](https://github.com/c4arl0s/19ObjectInstanceVariables-ObjectiveC#1-object-ownership-and-arc)
 2. [x] [2. Creating the Asset Class](https://github.com/c4arl0s/19ObjectInstanceVariables-ObjectiveC#2-creating-the-asset-class)
 
-# [20 Preventing Memory Leaks - Objective-C - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [20 Preventing Memory Leaks](https://github.com/c4arl0s/20PreventingMemoryLeaks-ObjectiveC#20-preventing-memory-leaks---objective-c---intro)
 
 1. [x] [1. Retain Cycles](https://github.com/c4arl0s/20PreventingMemoryLeaks-ObjectiveC#1-retain-cycles)
 2. [x] [2. Weak References](https://github.com/c4arl0s/20PreventingMemoryLeaks-ObjectiveC#2-weak-references)
@@ -96,7 +96,7 @@
 5. [x] [5. New basic example of Retain Cycles](https://github.com/c4arl0s/20PreventingMemoryLeaks-ObjectiveC#5-new-basic-example-of-retain-cycles)
 6. [x] [6. Retain count rules](https://github.com/c4arl0s/20PreventingMemoryLeaks-ObjectiveC#6-retain-count-rules)
 
-# [21 Collection Classes - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [21 Collection Classes](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#0-21-collection-classes)
 
 1. [x] [1. NSArray / NSMutableArray](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#1-nsarray--nsmutablearray)
 2. [x] [2. Immutable objects](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#2-immutable-objects)
@@ -107,7 +107,7 @@
 7. [x] [7. C primitive types](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#7-c-primitive-types)
 8. [x] [8. Collections and nil](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#8-collections-and-nil)
 
-# [22 Constants - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [22 Constants](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#22-writing-files-with-nsstring-and-nsdata)
 
 1. [x] [1. Preprocessor directives](https://github.com/c4arl0s/22Constants-ObjectiveC#1-preprocessor-directives)
 2. [x] [2. #include and #import](https://github.com/c4arl0s/22Constants-ObjectiveC#2-include-and-import)
@@ -116,7 +116,7 @@
 5. [x] [5. enum](https://github.com/c4arl0s/22Constants-ObjectiveC#5-enum)
 6. [x] [6. #define vs global variables](https://github.com/c4arl0s/22Constants-ObjectiveC#6-define-vs-global-variables)
 
-# [23 Writing Files With NSString And NSData - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [23 Writing Files With NSString And NSData](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#22-writing-files-with-nsstring-and-nsdata)
 
 1. [x] [1. Writing an NSString to a file](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#1-writing-an-nsstring-to-a-file)
 2. [x] [2. NSError](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#2-nserror)
@@ -124,7 +124,7 @@
 4. [x] [4. Writing an NSData object to a file](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#4-writing-an-nsdata-object-to-a-file)
 5. [x] [5. Reading an NSData from a file](https://github.com/c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC#5-reading-an-nsdata-from-a-file) 
 
-# [24 Callbacks - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [24 Callbacks](https://github.com/c4arl0s/24Callbacks-ObjectiveC#24-callbacks---objectivec)
 
 1. [x] [1. Target-Action](https://github.com/c4arl0s/24Callbacks-ObjectiveC#1-target-action-command-pattern---almost-exclusively-with-children-of-the-uicontrol-class)
 2. [x] [2. Helper Objects](https://github.com/c4arl0s/24Callbacks-ObjectiveC#2-helper-objects)
@@ -132,7 +132,7 @@
 4. [x] [4. Which to use](https://github.com/c4arl0s/24Callbacks-ObjectiveC#4-which-to-use-)
 5. [x] [5. Callbacks and object ownership](https://github.com/c4arl0s/24Callbacks-ObjectiveC#5-callbacks-and-object-ownership)
 
-# [25 Protocols - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [25 Protocols](https://github.com/c4arl0s/25Protocols-ObjectiveC/blob/master/README.md#25-protocols---objectivec---content)
 
 1. [x] [1. 25Protocols-ObjectiveC](https://github.com/c4arl0s/25Protocols-ObjectiveC/blob/master/README.md#1-25protocols-objectivec)
 2. [x] [2. It is importan to remember that who you are is different from what you do](https://github.com/c4arl0s/25Protocols-ObjectiveC/blob/master/README.md#2-it-is-importan-to-remember-that-who-you-are-is-different-from-what-you-do)
@@ -143,11 +143,11 @@
 7. [x] [7. The data source protocol for UITableView is named UITableViewDataSource](https://github.com/c4arl0s/25Protocols-ObjectiveC/blob/master/README.md#7-the-data-source-protocol-for-uitableview-is-named-uitableviewdatasource)
 8. [x] [8. Do you remember an instance of Logger the delegate of an NSURLConnection object ?](https://github.com/c4arl0s/25Protocols-ObjectiveC/blob/master/README.md#8-do-you-remember-an-instance-of-logger-the-delegate-of-an-nsurlconnection-object-)
 
-# [26 Property List - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [26 Property List](https://github.com/c4arl0s/26PropertyList-ObjectiveC#26-property-list---objectivec)
 
 1. [x] [1. Challenge](https://github.com/c4arl0s/26PropertyList-ObjectiveC#1-challenge)
 
-# [27 Your first iOS Application - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [27 Your first iOS Application](https://github.com/c4arl0s/27YourFirstiOSApplication#27-your-first-ios-application)
 
 You will create your first app by code (XIB files or storyboards are not used)
 
@@ -170,7 +170,7 @@ You will create your first app by code (XIB files or storyboards are not used)
 17. [x] [17. When you tap a cell, hide keyboard](https://github.com/c4arl0s/27YourFirstiOSApplication#17-when-you-tap-a-cell-hide-keyboard)
 18. [x] [18. Disable insert button when taskTextField is empty and present an alert momentary](https://github.com/c4arl0s/27YourFirstiOSApplication#18-disable-insert-button-when-tasktextfield-is-empty-and-present-an-alert-momentary)
 
-# [28 Your First Cocoa Application - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [28 Your First Cocoa Application](https://github.com/c4arl0s/28YourFirstCocoaApplication#28-your-first-cocoa-application)
 
 1. [x] [1. Edit BNRDocument.h](https://github.com/c4arl0s/28YourFirstCocoaApplication#1-edit-bnrdocumenth)
 2. [x] [2. A look at Interface Builder](https://github.com/c4arl0s/28YourFirstCocoaApplication#2-a-look-at-interface-builder)
@@ -181,7 +181,7 @@ You will create your first app by code (XIB files or storyboards are not used)
 7. [x] [7. Edit BNRDocument.m](https://github.com/c4arl0s/28YourFirstCocoaApplication#7-edit-bnrdocumentm)
 8. [x] [8. Challenges](https://github.com/c4arl0s/28YourFirstCocoaApplication#8-challenges)
 
-# [29 init - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [29 init](https://github.com/c4arl0s/29init-ObjectiveC#29-init---objectivec)
 
 1. [x] [1. Writing init methods](https://github.com/c4arl0s/29init-ObjectiveC#1-writing-init-methods)
 2. [x] [2. A basic init method](https://github.com/c4arl0s/29init-ObjectiveC#2-a-basic-init-method)
@@ -189,7 +189,7 @@ You will create your first app by code (XIB files or storyboards are not used)
 4. [x] [4. init methods that take arguments](https://github.com/c4arl0s/29init-ObjectiveC#4-init-methods-that-take-arguments)
 5. [x] [5. Deadly init methods](https://github.com/c4arl0s/29init-ObjectiveC#5-deadly-init-methods)
 
-# [30 Properties - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [30 Properties](https://github.com/c4arl0s/30Properties_ObjectiveC#30-properties---objectivec)
 
 1. [x] [1. Property attributes](https://github.com/c4arl0s/30Properties_ObjectiveC#1-property-attributes)
 2. [x] [2. Mutability](https://github.com/c4arl0s/30Properties_ObjectiveC#2-mutability)
@@ -200,9 +200,9 @@ You will create your first app by code (XIB files or storyboards are not used)
 7. [x] [7. Key-value coding](https://github.com/c4arl0s/30Properties_ObjectiveC#7-key-value-coding)
 8. [x] [8. Non object types](https://github.com/c4arl0s/30Properties_ObjectiveC#8-non-object-types)
 
-# [31. Categories - Objective C - Content](https://github.com/c4arl0s/31Categories-ObjectiveC#go-back-to-content)
+# [31. Categories - Objective C](https://github.com/c4arl0s/31Categories-ObjectiveC#31-categories---objective-c---content)
 
-# [32 Blocks - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [32 Blocks](https://github.com/c4arl0s/32Blocks-ObjectiveC#32-blocks---objectivec)
 
 1. [x] [1. Blocks](https://github.com/c4arl0s/32Blocks-ObjectiveC#1-blocks)
 2. [x] [2. Defining blocks](https://github.com/c4arl0s/32Blocks-ObjectiveC#2-defining-blocks)
@@ -218,7 +218,7 @@ You will create your first app by code (XIB files or storyboards are not used)
 12. [x] [12. NSNotificationCenter](https://github.com/c4arl0s/32Blocks-ObjectiveC#12-nsnotificationcenter)
 13. [x] [13. Retain Cycles and Blocks](https://github.com/c4arl0s/32Blocks-ObjectiveC#13-retain-cycles-and-blocks)
 
-# [34 C Strings - ObjectiveC - Content](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#iosprogramming_basicobjectivec)
+# [34 C Strings](https://github.com/c4arl0s/34_C_Strings_ObjectiveC#34-c-strings---objectivec)
 
 1. [x] [1. char](https://github.com/c4arl0s/34_C_Strings_ObjectiveC#1-char)
 2. [x] [2. char \*](https://github.com/c4arl0s/34_C_Strings_ObjectiveC#2-char-)
